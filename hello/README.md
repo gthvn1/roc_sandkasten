@@ -1,0 +1,2 @@
+- We are using the [basic-cli platform](https://github.com/roc-lang/basic-cli)
+- Run it using: `roc dev`
