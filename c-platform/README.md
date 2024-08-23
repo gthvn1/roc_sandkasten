@@ -4,6 +4,7 @@
 
 - Step1: start with minimal platform
     - It looks like only `getppid` is required to build the platform
-- Step2: ...
+- Step2: Print the string passed from main.roc app
 
 To run it: `roc run`
+It will just build because we are not doing anything with the input string... it is step2 
